@@ -1,4 +1,7 @@
 # Effective learning: Twenty rules of formulating knowledge
+
+# 有效的学习：组织知识的20条原则(中文译作)
+
 source: [The 20 rules of formulating knowledge in learning](https://www.supermemo.com/en/articles/20rules)
 
 Here again are the twenty rules of formulating knowledge. You will notice that the first 16 rules revolve around making memories simple! Some of the rules strongly overlap. For example: do not learn if you do not understand is a form of applying the minimum information principle which again is a way of making things simple:
@@ -24,5 +27,5 @@ Here again are the twenty rules of formulating knowledge. You will notice that t
 19.	Provide date stamping - time stamping is useful for volatile knowledge that changes in time
 20.	Prioritize - effective learning is all about prioritizing. In incremental reading you can start from badly formulated knowledge and improve its shape as you proceed with learning (in proportion to the cost of inappropriate formulation). If need be, you can review pieces of knowledge again, split it into parts, reformulate, reprioritize, or delete. See also: Incremental reading, Devouring knowledge, Flow of knowledge, Using tasklists
 
-===
-# 有效的学习：组织知识的20条原则(中文译作)
+
+
