@@ -6,7 +6,7 @@ If you are not a speaker of German, it is still possible to learn a history text
 
 The German history book example is an extreme. However, the materials you learn may often seem well structured and you may tend to blame yourself for lack of comprehension. Soon you may pollute your learning process with a great deal of useless material that treacherously makes you believe "it will be useful some day".  
 
-===
+---
 
 ## 原则一：不理解，不要学
 
