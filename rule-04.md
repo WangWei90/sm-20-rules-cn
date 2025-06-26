@@ -64,7 +64,7 @@ You will notice that the knowledge learned in the ill-structured example is not 
 
 You will also lose the ability to fluently recite the description of the Dead Sea when called up to the blackboard by your teachers. I bet, however, that shining in front of the class is not your ultimate goal in learning. To see how to cope with recitations and poems, read further (section devoted to enumerations)
 
-===
+---
 
 ## 原则四：遵循最小信息原则
 
