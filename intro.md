@@ -11,7 +11,7 @@ There is an underlying assumption that you will proceed with learning using spac
 
 The 20 rules of formulating knowledge in learning
 
-===
+----
 
 ## 有效的学习：组织知识的20条原则
 
