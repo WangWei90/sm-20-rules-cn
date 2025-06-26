@@ -1,4 +1,4 @@
-##4. Stick to the minimum information principle
+## 4. Stick to the minimum information principle
 
 The material you learn must be formulated in as simple way as it is
 
@@ -12,13 +12,13 @@ I assume you will make repetitions of the learned material using optimum inter-r
 
 Here is a striking example:
 
-####Ill-formulated knowledge - Complex and wordy
+#### Ill-formulated knowledge - Complex and wordy
 
 - Q: What are the characteristics of the Dead Sea?
 
 - A: Salt lake located on the border between Israel and Jordan. Its shoreline is the lowest point on the Earth's surface, averaging 396 m below sea level. It is 74 km long. It is seven times as salty (30% by volume) as the ocean. Its density keeps swimmers afloat. Only simple organisms can live in its saline waters
 
-####Well-formulated knowledge - Simple and specific
+#### Well-formulated knowledge - Simple and specific
 
 - Q: Where is the Dead Sea located?
 
@@ -66,7 +66,7 @@ You will also lose the ability to fluently recite the description of the Dead Se
 
 ===
 
-##原则四：遵循最小信息原则
+## 原则四：遵循最小信息原则
 
 你的学习材料须尽可能以简单的方式进行组织。
 
@@ -80,12 +80,12 @@ You will also lose the ability to fluently recite the description of the Dead Se
 
 下面是一个明显的例子：
 
-####组织很差的知识点 - 复杂而冗长
+#### 组织很差的知识点 - 复杂而冗长
 
 - 问：死海的特点是什么？| 
 - 答：死海是位于以色列和约旦边界的盐湖。它的海岸线是地球表面的最低点，平均海拔-396米，长74公里。含盐量是海洋的七倍(30%含量)。其密度可以使游泳者保持飘浮。只有简单的微生物可以生活其中。
 
-####组织良好的知识点 - 简单而明确 
+#### 组织良好的知识点 - 简单而明确 
 
 - 问：死海位于哪里？
 - 答：以色列和约旦边界| 
