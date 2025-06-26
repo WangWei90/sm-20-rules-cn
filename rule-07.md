@@ -1,4 +1,4 @@
-##7. Use mnemonic techniques
+## 7. Use mnemonic techniques
 
 Mnemonic techniques are various techniques that make remembering easier. They are often amazingly effective. For most students, a picture of a 10-year-old memorizing a sequence of 50 playing cards verges on discovering a young genius. It is very surprising then to find out how easy it is to learn the techniques that make it possible with a dose of training. These techniques are available to everyone and do not require any special skills!
 
@@ -12,9 +12,9 @@ Exemplary mind map:
 
 ![mindmap](/asset/mindmap.jpg)
 
-===
+---
 
-##原则七：使用助记技巧
+## 原则七：使用助记技巧
 
 助记技巧是那些使我们更容易记忆的技巧。这些技巧往往有着令人惊讶的效果。对大部分学生来说，10岁少年就能记住50张卡牌排序的景象让人几乎以为发现了少年天才。然而人们惊讶的发现，在一些训练后，掌握这样的技巧是如此的容易。这些技巧每个人都可以获得而不需要而外的能力。
 
